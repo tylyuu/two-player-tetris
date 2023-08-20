@@ -1,6 +1,6 @@
 # Two-Player Tetris
 
-## Available commands
+## Available controls in addition to keyboard commands
 | Command            | Key          | 
 |--------------------|--------------|
 | Move Left          | Left Arrow   | 
@@ -8,3 +8,4 @@
 | Rotate Clockwise   | Up Arrow     | 
 | Rotate Counter-CW  | /            | 
 | Drop               | Space        | 
+
